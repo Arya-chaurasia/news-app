@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Bumper BP profits of £4bn in three months spark criticism",
+      "description": "Strong profits lead to renewed calls for energy firms to pay more tax, with households facing high bills.",
+      "url": "http://www.bbc.co.uk/news/business-65453952",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1646F/production/_123174219_bppump-002.jpg",
+      "publishedAt": "2023-05-02T09:52:19.3817346Z",
+      "content": "Oil and gas giant BP has reported strong profits for the beginning of the year as energy prices remain high.\r\nProfits hit $5bn (£4bn) in the first three months of the year, although this was down fro… [+3163 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Soldier shoots dead politician he was guarding",
+      "description": "Some residents reported the Ugandan soldier firing into the air, shortly before turning the gun on himself.",
+      "url": "http://www.bbc.co.uk/news/world-africa-65454213",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1938/production/_129565460_microsoftteams-image.png",
+      "publishedAt": "2023-05-02T09:37:16.1946557Z",
+      "content": "A Ugandan national army soldier has shot and killed a government minister he was guarding. \r\nRetired Colonel Charles Okello Engola, who was the deputy minister for gender and labour, was shot at his … [+869 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Serena Williams: Tennis legend reveals second pregnancy at Met Gala",
+      "description": "Speaking to reporters alongside her husband, Williams says there \"are three of us\" on the red carpet.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65454210",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F5EC/production/_129565926_gettyimages-1486983142.jpg",
+      "publishedAt": "2023-05-02T08:37:21.037911Z",
+      "content": "Tennis legend Serena Williams confirmed she is pregnant with her second child at the Met Gala on Monday.\r\nThe 23-time Grand Slam singles champion told reporters at the New York fashion show there wer… [+1094 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Met Gala 2023: Doja Cat and Jared Leto deliver Lagerfeld-inspired looks",
+      "description": "Doja Cat was among the stars paying tribute not just to Karl Lagerfeld - but also his famous feline.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-65413976",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14786/production/_129564838_topimggettyimages-1486961722.jpg",
+      "publishedAt": "2023-05-02T08:37:19.5382834Z",
+      "content": "Media caption, Watch: From an uninvited guest to celebs in the same dress (the horror!), here's the Met's unmissable moments\r\nWe were expecting a large number of tributes to Karl Lagerfeld at Monday'… [+10054 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Hollywood strike: Screenwriters will walk out for first time in 15 years",
+      "description": "TV and movie writers will walk out on Tuesday after pay talks with major studios broke down.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-65447046",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16887/production/_129559229_gettyimages-1249393950.jpg",
+      "publishedAt": "2023-05-02T07:07:20.1640706Z",
+      "content": "Thousands of Hollywood TV and movie screenwriters will strike on Tuesday, after last minute talks with major studios over wages broke down.\r\nA Writers Guild of America (WGA) strike, the first in 15 y… [+4511 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Air India, IndiGo: New record as 4.56m Indians take flights in a day",
+      "description": "The milestone was reached on 30 April as 2,978 flights took off across the country.",
+      "url": "http://www.bbc.co.uk/news/world-asia-india-65334390",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/160F4/production/_129565309_gettyimages-1244101892-594x594.jpg",
+      "publishedAt": "2023-05-02T06:52:17.225156Z",
+      "content": "India's domestic air traffic has hit a record high, with 4.56m passengers flying on a single day.\r\nThe milestone, which was reached on 30 April, came as 2,978 flights took off across the country.\r\n\"T… [+2412 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "King Charles Coronation: What will he wear for the ceremony?",
+      "description": "The King will wear layers of glittering garments, some of which were created for George V.",
+      "url": "http://www.bbc.co.uk/news/uk-65448709",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1029E/production/_129560266_3edd1a53acb436651a48076b0bfe64a519602b39-1.jpg",
+      "publishedAt": "2023-05-02T06:22:19.6164295Z",
+      "content": "We know the date, the time, most of the guest list - and now we know the outfit. \r\nThe heavy and priest-like golden robes King Charles III will wear for his Coronation have been revealed. \r\nDuring th… [+4170 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Palestinian Khader Adnan dies in Israel jail after 86 days on hunger strike",
+      "description": "Israel says Khader Adnan, an Islamic Jihad activist, had refused any medical tests or treatment.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-65452946",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6492/production/_129564752_587209faa7e7f2a2433bd3d4368f0d3d4872eee6-1.jpg",
+      "publishedAt": "2023-05-02T05:37:15.3043423Z",
+      "content": "Khader Adnan, a senior figure in the Palestinian Islamic Jihad group, has died in an Israeli jail after 86 days on hunger strike.\r\nThe Israel Prison Service (IPS) said he was found unconscious in his… [+1042 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "AI 'godfather' Geoffrey Hinton warns of dangers as he quits Google",
+      "description": "Geoffrey Hinton tells the BBC some of the dangers in the artificial intelligence field \"are quite scary\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65452940",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF9E/production/_129564275_de27.jpg",
+      "publishedAt": "2023-05-02T00:37:16.9453652Z",
+      "content": "A man widely seen as the godfather of artificial intelligence (AI) has quit his job, warning about the growing dangers from developments in the field. \r\nGeoffrey Hinton, aged 75, announced his resign… [+1869 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine war: More than 20,000 Russian fighters dead in Bakhmut, US says",
+      "description": "Russia has suffered more than 100,000 causalities in the battle for Bakhmut, the White House says.",
+      "url": "http://www.bbc.co.uk/news/world-europe-65451487",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DDFA/production/_129562865_mediaitem129562861.jpg",
+      "publishedAt": "2023-05-01T20:37:17.475492Z",
+      "content": "The White House believes that more than 20,000 Russian combatants have died in the battle for the Ukrainian city of Bakhmut.\r\nA further 80,000 have been wounded, National Security Council spokesman J… [+3469 chars]"
+    }
+  ]
+}
