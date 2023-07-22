@@ -1,3 +1,10 @@
+/* App.css */
+body {
+  background: linear-gradient(to bottom, #ffffff, #f2f2f2);
+}
+
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +43,113 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+}
+
+.navbar-nav .nav-link {
+  font-size: 1rem;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f11946;
+}
+
+
+/* App.css */
+.card {
+  border: 1px solid #e6e6e6;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+
+
+
+
+.card:hover {
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #343a40;
+}
+
+.card-text {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.card-text small {
+  color: #999;
+}
+
+.card-text small a {
+  color: #999;
+  text-decoration: none;
+}
+
+.card-text small a:hover {
+  text-decoration: underline;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.btn-dark {
+  background-color: #f11946;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-dark:hover {
+  background-color: #d61e3b;
+}
+
+
+/* Spinner.css */
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.spinner {
+  border: 3px solid #f3f3f3;
+  border-top: 3px solid #f11946;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+

@@ -1,5 +1,6 @@
 import React from 'react'
-import loading from './loading.gif.gif'
+import loading from './loading.gif.gif';
+import "../App.css";
  
 const Spinner = () => {
   
