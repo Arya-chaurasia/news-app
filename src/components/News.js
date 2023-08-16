@@ -39,27 +39,26 @@ const News = (props) => {
 
 
 
-  const handlePrevClick = async () => {
-    setPage(page-1)
-  updateNews();
+   const handlePrevClick = async () => {
+    setPage(prevPage => prevPage - 1);
+    fetchMoreData();
   };
 
   const handleNextClick = async () => {
-    setPage(page+1)
-    updateNews();
+    setPage(prevPage => prevPage + 1);
+    fetchMoreData();
   };
 
   const fetchMoreData = async () => {
     const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${props.apiKey}&page=${page + 1}&pageSize=${props.pageSize}`;
-    setPage(page+1)
-    let data = await fetch(url);
-    let parseData = await data.json();
-    setArticles(articles.concat(parseData.articles))
-    setTotalResults(parseData.totalResults)
-  
-      // loading: false,
-      // page: page + 1
-
+    try {
+      const data = await fetch(url);
+      const parseData = await data.json();
+      setArticles(prevArticles => prevArticles.concat(parseData.articles));
+      setTotalResults(parseData.totalResults);
+    } catch (error) {
+      console.error("Error fetching data:", error);
+    }
   };
 
   
@@ -79,9 +78,9 @@ const News = (props) => {
 
         <div className="row">
           {!loading &&
-            articles.map((element) => {
+            articles.map((element, index) => {
               return (
-                <div className="col-md-4" key={element.url}>
+                <div className="col-md-4" key={element.url + index}>
                   <NewsItem
                     title={element.title ? element.title : ""}
                     description={element.description ? element.description : ""}
